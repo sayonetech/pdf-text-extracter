@@ -6,7 +6,7 @@ Purpose of this program is to extract text content from pdf. Output will be obta
 
 
 <h3>Setting up project</h3>
-Program is written on python3 version.
+Program is written on python3 version.</br>
 1.Clone the project</br>
 2.Create virtual </br>
 3.Install the requirements</br>
